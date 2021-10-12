@@ -21,5 +21,6 @@ console.log(value3);
 /**
  * ! INFORMATION : il faut activer dans le fichier 
  * ! tsconfig --strickNullChecks si on souhaite que le type de value3 
- * ! soit bien respecter ou sinon remplacer par unknow ou any 
+ * ! soit bien respecter 
+ * ! Remplacer par unknow ou any si on souhaite que value3 soit valider par TS  
  */
