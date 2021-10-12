@@ -8,7 +8,7 @@ console.log(value1); // undefined
 // console.log(value2); // undefined 
 
 // Dans le cas d'un undefined qu'on attribue a une variable 
-// on est toujours undefined pareil lorsqu'il sagit de null 
+// on a toujours undefined même lorsqu'il s'agit de null 
 
 let value2:null = null; 
 console.log(value2); // null 
